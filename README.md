@@ -24,6 +24,8 @@ Ensure you have a virtual environment set up and activate it. Then, install the 
 
 pip install -r requirements.txt
 
+For running the project run this cmd: python main.py
+
 
 ### Prerequisites
 
@@ -32,4 +34,4 @@ pip install -r requirements.txt
 - Werkzeug
 
 ## Screenshot
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/7f74981d-5921-46fb-9afc-1878c5aea0db)
